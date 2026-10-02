@@ -1,0 +1,15 @@
+# Real financial data never goes to GitHub
+outputs/
+*.DRAFT.xlsx
+Review_*.xlsx
+GL_Import_*.xlsx
+GL_Rules.xlsx
+!GL_Rules_template.xlsx
+*statement*.xlsx
+*Statement*.xlsx
+Automation.xlsx
+Jan_Imports_GL.xlsx
+__pycache__/
+*.pyc
+.venv/
+venv/
